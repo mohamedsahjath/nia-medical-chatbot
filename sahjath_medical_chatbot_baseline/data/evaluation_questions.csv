@@ -1,0 +1,22 @@
+question,expected_intent
+Tell me the signs of diabetes,diabetes_symptoms
+Ways to reduce type 2 diabetes risk,diabetes_prevention
+Explain hypertension,hypertension_info
+How do people prevent high blood pressure?,hypertension_prevention
+Which signs are caused by influenza?,flu_symptoms
+How can we avoid getting flu?,flu_prevention
+How are a cold and influenza different?,common_cold
+Tell me the warning signs of dengue,dengue_info
+How do I stop mosquito-borne dengue?,dengue_prevention
+Is wheezing a sign of asthma?,asthma_info
+Help during an asthma attack,asthma_care
+Should antibiotics be used for viral colds?,medicine_safety
+What foods are part of a balanced diet?,healthy_diet
+Tell me how to handle a small burn,first_aid_burn
+How should a small bleeding wound be cleaned?,first_aid_cut
+What are dehydration symptoms?,dehydration
+What should someone do for loose stools?,diarrhoea_care
+Ways to get better sleep,sleep_health
+How much weekly physical activity is advised?,physical_activity
+I feel under pressure and anxious,mental_wellbeing
+
